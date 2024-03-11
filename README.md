@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Thiago Marinho de Sousa 🔥
 
-<!--
-**Thzzxs/Thzzxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://instagram.com/thzz.xs)
+[![LinkedIn] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/thiago-marinho-de-sousa-a93181276/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso 
+
+<div style ="display: inline_block"><br>/>
+<img aling="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img aling="center" alt="html" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></div>
