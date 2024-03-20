@@ -1,6 +1,7 @@
 ### Olá! Eu sou Thiago Marinho de Sousa 🔥
 
 [![Instagram] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://instagram.com/thzz.xs)
+<br>
 [![LinkedIn] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/thiago-marinho-de-sousa-a93181276/)
 
 
