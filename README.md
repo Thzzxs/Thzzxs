@@ -1,5 +1,9 @@
 ### Olá! Eu sou Thiago Marinho de Sousa 🔥
 
+- Hoje curso BSI, e futuramente quero me profissionalizar na area 😀
+- Sou apaixonado por tecnologia ❤️
+
+
 [![Instagram] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://instagram.com/thzz.xs)
 <br>
 [![LinkedIn] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/thiago-marinho-de-sousa-a93181276/)
@@ -12,3 +16,4 @@
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img aling="center" alt="html" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></div>
+
