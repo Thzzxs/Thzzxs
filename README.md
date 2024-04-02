@@ -6,7 +6,7 @@
 
 [![Instagram] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://instagram.com/thzz.xs)
 <br>
-[![LinkedIn] (https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/thiago-marinho-de-sousa-a93181276/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomsousa/)
 
 
 ### Tecnologias que uso 
