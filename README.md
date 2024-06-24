@@ -6,6 +6,10 @@
 
 ###
 
+![Thzzxs's Stats](https://github-readme-stats.vercel.app/api?username=Thzzxs&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
