@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- My technologies</p>
+<h2 align="left">My technologies</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
