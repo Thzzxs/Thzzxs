@@ -12,8 +12,6 @@
 
 
 
-![Thzzxs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Thzzxs&theme=shadow_red_icons=true)
-
 
 ## Tecnologias que uso 
 
