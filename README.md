@@ -5,11 +5,12 @@
 <p align="left">- Hoje curso BSI, e futuramente quero me profissionalizar na area 😀<br>- Sou apaixonado por tecnologia ❤️</p>
 
 ###
-<div align="center">
-  
-![Thzzxs's Stats](https://github-readme-stats.vercel.app/api?username=Thzzxs&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thzzxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thzzxs&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Thzzxs's Stats" height="150" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thzzxs&theme=dracula&hide_border=false" alt="Thzzxs's Streak" height="150">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thzzxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph"  />
 </div>
 
 ###
