@@ -11,6 +11,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thzz.xs/)
 
 
+
+![Thzzxs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Thzzxs&theme=shadow_red_icons=true)
+
+
 ## Tecnologias que uso 
 
 <div style ="display: inline_block"><br>
